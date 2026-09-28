@@ -121,6 +121,19 @@ Built as a **force-multiplier for rescue teams** — scouting first, not replaci
 4. [ROS 2 — SLAM Toolbox Documentation](https://docs.ros.org/en/humble/p/slam_toolbox/)
 5. [ROS 2 — Nav2 Navigation Concepts](https://docs.nav2.org/rolling/getting_started/navigation_concepts/)
 
+## 🎥 Demo Video
+
+[
+
+![Watch Demo](https://img.shields.io/badge/▶_Watch-Demo_Video-red?style=for-the-badge)
+
+](https://drive.google.com/file/d/1-2RmJU_kiQDHAJTdm3Bz9J0QpuEfmWQJ/view?usp=drivesdk)
+
+Short walkthrough of our AI-powered mine safety rover: gas detection, survivor detection, live mapping and real-time alerts over LoRa.
+
+🔗 **Link:** [Demo Video (Google Drive)](https://drive.google.com/file/d/1-2RmJU_kiQDHAJTdm3Bz9J0QpuEfmWQJ/view?usp=drivesdk)
+
+
 ---
 
 ## 📄 License
