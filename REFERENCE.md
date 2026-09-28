@@ -1,3 +1,4 @@
+
 # 📚 References
 
 Research and technical documentation used for the **AI-Powered Underground Mine Safety Monitoring & Rescue System**.
@@ -24,8 +25,6 @@ Research and technical documentation used for the **AI-Powered Underground Mine 
 
 5. **ROS 2 — Nav2 Navigation Concepts**
    🔗 [https://docs.nav2.org/rolling/getting_started/navigation_concepts/](https://docs.nav2.org/rolling/getting_started/navigation_concepts/)
+ 
 
----
 
-
- |
